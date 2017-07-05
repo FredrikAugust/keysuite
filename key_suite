@@ -1,0 +1,2 @@
+#!/bin/bash
+(/home/pi/bin/image_server &) && /home/pi/bin/livestream

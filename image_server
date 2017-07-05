@@ -1,0 +1,2 @@
+#!/bin/bash
+FLASK_APP=~/bin/image_server.py flask run

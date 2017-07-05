@@ -1,0 +1,2 @@
+#!/bin/bash
+raspivid -w 800 -h 480 -f -t 0
