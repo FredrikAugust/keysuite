@@ -4,7 +4,7 @@
 
 - Raspberry Pi 3 Model B
 - `raspivid` and `raspistill`, most likely shipped with your Rasbian distribution
-- Python 3, pip (package manager for python)
+- Python, pip (package manager for python)
 - Raspberry Pi Camera v2
 
 ## Setup
