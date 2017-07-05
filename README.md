@@ -29,7 +29,7 @@ PS: If you add the `bin` dir to `PATH` you don't have to prefix the program with
 
 ## Stopping the program
 
-**Killing the livestream**: `Control-C` when livestream is open
+**Killing the livestream**: `Control-c` when livestream is open
 
 **Killing the webserver**: Either locate the PID using htop/top/ps or similar,
 or use this _short_ command: `kill $(ps aux | grep "flask" | grep -oP "pi\s+\d+" | head -n 1)`.
