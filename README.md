@@ -6,6 +6,11 @@
 - `raspivid` and `raspistill`, most likely shipped with your Rasbian distribution
 - Python, pip (package manager for python)
 - Raspberry Pi Camera v2
+- NPN Resistor (I used 2N 2222)
+- 1k ohm resistor
+- Cables
+- Soldering iron
+- Wire- cutter/stripper
 
 ## Setup
 
@@ -18,6 +23,7 @@ upgrade`
 - Make all of the scripts executable (`chmod +x <path to script>`)
 - Install `flask` (python server library)
   - `pip install flask`
+- Set up the wiring [as following](http://i.imgur.com/ACVbinT.png)
 
 ## Running
 
