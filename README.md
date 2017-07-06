@@ -23,7 +23,11 @@ upgrade`
 - Make all of the scripts executable (`chmod +x <path to script>`)
 - Install `flask` (python server library)
   - `pip install flask`
-- Set up the wiring [as following](http://i.imgur.com/ACVbinT.png)
+- Set up the wiring as following
+
+![as following](http://i.imgur.com/ACVbinT.png)
+
+_PS: In my led-list the wire with text on it is ground_
 
 ## Running
 
